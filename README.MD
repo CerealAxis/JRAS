@@ -24,7 +24,7 @@ JRAS/
 └── spider.py        # 商品评论爬虫模块
 
 ├── data
-│   ├── bg.png        # 可能用作报告背景图片
+│   ├── bg.png        # 词云图背景图片
 │   └── stopwords.txt # 停用词表
 
 └── output
