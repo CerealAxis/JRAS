@@ -11,7 +11,7 @@ def open_help_docs():
     """
     打开帮助文档
     """
-    help_doc_path = "帮助文档"
+    help_doc_path = "https://xaviermc.top/?p=43"
     webbrowser.open(help_doc_path)
 
 
